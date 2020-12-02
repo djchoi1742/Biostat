@@ -2,8 +2,8 @@
 - 01. Find optimal cutoff for results of deep learning algorith
 - 02. Find cutoff based on sensitivity or specificity for results of deep learning algorithm
 - 03. Calculate diagnostic performance with 95% confidence interval
-   - Sensitivity with
-   - Specificity with
+   - Sensitivity
+   - Specificity
    - Positivie predictive value
    - Negative predictive value
    - Positive likelihood ratio
